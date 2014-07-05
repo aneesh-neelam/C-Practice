@@ -1,4 +1,4 @@
-C-Practice
-==========
+Practice
+========
 
-Practice C programs, small programs
+Programs that I've written for Practice and for HackerRank and Codechef
